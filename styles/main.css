@@ -63,6 +63,10 @@
      max-width: 64rem;
  }
 
+.container.narrow{
+    max-width: 56rem;
+}
+
 /*640px for md or sm screens*/
 @media (min-width: 640px) {
     html {font-size: 1125%;}
